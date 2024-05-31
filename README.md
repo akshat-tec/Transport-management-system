@@ -17,9 +17,9 @@ Installation :-
 
 To set up the Transport Management System locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/yourusername/transport-management-system.git
+1. Clone the repository: git clone https://github.com/akshat-tec/Transport-management-system.git
 
-2. Navigate to the project directory: cd transport-management-system
+2. Navigate to the project directory: cd Transport-management-system
 
 3. Compile the code: javac Main.java
 
